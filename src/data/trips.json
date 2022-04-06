@@ -1,0 +1,26 @@
+[
+    {
+        "img" : "../assets/images/travel-6.jpg",
+        "alt" : "Zion National Park",
+        "name": "Zion National Park",
+        "button" : "View Destination"
+    },
+    {
+        "img" : "../assets/images/travel-5.jpg",
+        "alt" : "Golden Gate Bridge",
+        "name": "Golden Gate Bridge",
+        "button" : "View Destination"
+    },
+    {
+        "img" : "../assets/images/travel-7.jpg",
+        "alt" : " Hollywood Sign",
+        "name": "Hollywood Sign",
+        "button" : "View Destination"
+    },
+    {
+        "img" : "../assets/images/travel-4.jpg",
+        "alt" : " Crater Lake",
+        "name": "Crater Lake",
+        "button" : "View Destination"
+    }
+]
